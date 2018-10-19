@@ -9,3 +9,6 @@ It is a web application that helps user to manage his budget.
 
 # Technologies-used
 HTML5, CSS3, Bootstrap 4, Vanilla Javascript ES5
+
+# License
+MIT
